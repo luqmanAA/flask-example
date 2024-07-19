@@ -12,7 +12,7 @@ git clone <repo-url>
 pip install -r requirements.txt
 ```
 
-## Running The App
+## Running The app
 
 ```bash
 python main.py
