@@ -29,4 +29,6 @@ RUN chown -R app:app $APP_HOME
 # change to the app user
 USER app
 
+EXPOSE 5000
+
 CMD [ "python", "main.py" ]
