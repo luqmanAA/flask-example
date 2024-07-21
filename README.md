@@ -20,4 +20,12 @@ python main.py
 
 ## Viewing The App
 
+
+dfghjgfghjgfghjgfdghjfdfgh
+
+rteyuiogui
+
+
+
+
 Go to `http://127.0.0.1:5000`
